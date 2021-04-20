@@ -4,4 +4,4 @@
 2. close repo to local machine
 3. run ```npm install```
 
-*_happy hacking.*
+*_happy hacking_*
